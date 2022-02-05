@@ -1,5 +1,5 @@
 # #  Multiple Line Code :)
-myName = 'Jood Alghamdi'
+myName = 'Joud Alghamdi'
 MyAge = '23'
 MyCountry = 'Saudi Arabia'
 print(f'"Name : {myName}"'
