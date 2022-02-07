@@ -167,7 +167,8 @@ print('Java Progress is {},'
 # Assignment 7 - 033 to 037
 # -----------------------------------------------------------------
 
-
+# check the below
+print(f'another formate is {skills.get('Java')}')
 
 
 
