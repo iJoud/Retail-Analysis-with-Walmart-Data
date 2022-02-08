@@ -169,7 +169,7 @@ print('Java Progress is {},'
 
 # check the below
 print(f'another formate is {skills.get('Java')}, Python Progress is {skills.get('Python')}, and so on...')
-print(f'another formate is {skills.get('SQL')}, and so on...')
+print(f'another formate is : SQL Progress is : {skills.get('SQL')}, \nand so on...')
 
 
 
