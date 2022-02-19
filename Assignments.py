@@ -156,7 +156,7 @@ print('--------------------------------------------------')
 skills = {
     'Java': '70%',
     'Python': '90%',
-    'SQL': '50%'
+    'SQL': '80%'
 }
 print('Java Progress is {},'
       '\nPython Progress is {}'
