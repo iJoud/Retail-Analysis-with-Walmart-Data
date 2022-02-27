@@ -163,6 +163,9 @@ print('Java Progress is {},'
       '\nSQL Progress is {}'.format(skills.get('Java'),
                                     skills.get('Python'),
                                     skills.get('SQL')))
+def examm: 
+      print('Study my dear!!')
+exam 
 # -----------------------------------------------------------------
 # Assignment 7 - 033 to 037
 # -----------------------------------------------------------------
