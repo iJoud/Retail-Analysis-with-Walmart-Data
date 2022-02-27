@@ -8,7 +8,7 @@ print(f'"Name : {myName}"'
 print('-------------------------------------------')
 print(('Hello, my name is ' + myName + ' and iam ' + MyAge + ' years old and i live in ' + MyCountry).title())
 print(f'{type(myName)}\n{type(MyAge)}\n{type(MyCountry)}')
-print('-------------------------------------------')
+print('-'*17) # same result
 
 # week 2 Assignment
 print('\"Hello \'' + myName + '\', How You Doing \\ """ Your Age Is "' + str(MyAge)
